@@ -1,0 +1,4 @@
+name = "from-file"
+
+[server]
+port = 9090
